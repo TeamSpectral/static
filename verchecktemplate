@@ -3,5 +3,6 @@
 	"version": 1,
 	"mc-update": true,
 	"name": "EladkayIsAwesome",
-	"mcmessage": "I like trains so you should update"
+	"mcmessage": "I like trains so you should update",
+	"url": "http://url.com"
 }
