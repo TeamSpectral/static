@@ -1,1 +1,7 @@
-{"mcversion":"MCVER", "version":"1.0", "mc-update":true,"name":"EladkayIsAwesome",mc-message:"I like trains so you should update"}
+{
+	"mcversion": "MCVER",
+	"version": "1.0",
+	"mc-update": true,
+	"name": "EladkayIsAwesome",
+	"mcmessage": "I like trains so you should update"
+}
