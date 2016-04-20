@@ -1,8 +1,8 @@
 {
 	"mcversion": "UNUSED",
-	"version": 131,
+	"version": 132,
 	"mc-update": true,
 	"name": "spectralguns",
-	"mcmessage": "I like trains so you should update",
-	"url": "google.com"
+	"mcmessage": "There's an update avaliable!",
+	"url": "http://bit.ly/1NAVFd2"
 }
